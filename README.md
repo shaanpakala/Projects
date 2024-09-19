@@ -1,5 +1,6 @@
-# Professional & Personal Projects
-<p style="font-size: 20px;"><i>click image for GitHub</i></p>
+# Projects
+
+<p style="font-size: 20px;"><i>Professional, Academic, & Personal Projects -- click image for GitHub</i></p>
 
 <p style="font-size: 24px;"><b><u>Automating Data Science Pipelines with Tensor Completion</u></b></p>
 
