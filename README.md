@@ -1,56 +1,3 @@
-<img align="left" width="211" src="images/picture_of_me.jpg">
-<p style="font-size: 24px;">
-  Hello! My name is Shaan Pakala. I am a fourth year <a href="https://datascience.ucr.edu/">Data Science & Engineering</a> (B.S.) student at the University of California, Riverside. During my time here, I have been a <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244480&HistoricalAwards=false">NSF REU</a> data science research intern with Professors <a href="https://www.cs.ucr.edu/~epapalex/">Vagelis Papalexakis</a>, <a href="https://sites.google.com/view/jiachen-research/home">Jia Chen</a>, & <a href="https://www.cs.ucr.edu/~tsotras/">Vassilis Tsotras</a>, as well as a participant in the Lawrence Livermore National Laboratory <a href="https://www.llnl.gov/article/50051/uc-merced-uc-riverside-tackle-data-science-challenge-machine-learning-assisted-heart">2023 Data Science Challenge</a>. Currently, I am working as a Bioinformatics Research Assistant with Professor <a href="https://www.cs.ucr.edu/~stelo/">Stefano Lonardi</a>.
-</p>
-
-<a href="https://shaanpakala.github.io/resume.pdf" target="_blank">
-  <img src="images/resume_logo.png" alt="Resume" style="width: 26px; height: 27px;">
-</a>
-<a href="https://www.linkedin.com/in/shaan-pakala-b91024210/" target="_blank">
-  <img src="images/linkedin_logo.png" alt="LinkedIn" style="width: 26px; height: 27px;">
-</a>
-<a href="https://github.com/shaanpakala" target="_blank">
-  <img src="images/git_logo.png" alt="GitHub" style="width: 26px; height: 27px;">
-</a>
-
-<br>
-<p style="font-size: 50px;"><b>Education</b></p>
-<hr>
-
-<p style="font-size: 24px; display: flex; justify-content: space-between; line-height: 1.0;">
-  <span><b>Data Science & Engineering, B.S.</b></span>
-  <span style="text-align: right;">September 2021 - June 2025</span>
-</p>
-<p style="font-size: 22px; line-height: 1.0;"><em>University of California, Riverside</em></p>
-
-<br>
-<p style="font-size: 50px;"><b>Experience</b></p>
-<hr>
-
-<p style="font-size: 24px; display: flex; justify-content: space-between; line-height: 1.0;">
-  <span><b>Bioinformatics Research Assistant</b></span>
-  <span style="text-align: right;">March 2024 - Present</span>
-</p>
-<p style="font-size: 22px; line-height: 1.0;"><em>University of California, Riverside</em></p>
-
-<p style="font-size: 24px; display: flex; justify-content: space-between; line-height: 1.0; margin-top: 40px;">
-  <span><b><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244480&HistoricalAwards=false">NSF REU</a> Data Science Research Intern</b></span>
-  <span style="text-align: right;">Summer 2024</span>
-</p>
-<p style="font-size: 22px; line-height: 1.0;"><em>University of California, Riverside</em></p>
-
-<p style="font-size: 24px; display: flex; justify-content: space-between; line-height: 1.0; margin-top: 40px;">
-  <span><b>Data Science Fellow</b></span>
-  <span style="text-align: right;">Summer 2023</span>
-</p>
-<p style="font-size: 22px; line-height: 1.0;"><em>Lawrence Livermore National Laboratory</em></p>
-
-<p style="font-size: 24px; display: flex; justify-content: space-between; line-height: 1.0; margin-top: 40px;">
-  <span><b>Data Science Summer Camp Mentor</b></span>
-  <span style="text-align: right;">Summer 2022</span>
-</p>
-<p style="font-size: 22px; line-height: 1.0;"><em>Spotline, Inc.</em></p>
-
 <br>
 <p style="font-size: 50px;"><b>Projects</b> <i>(click image for GitHub)</i></p>
 
@@ -114,11 +61,3 @@
 </a>
 
 <p style="font-size: 20px;">Started as a final project for Data Analysis Methods (CS105 at UC Riverside), but I got carried away and extended it. I webscraped online reviews (from <a href="https://www.yelp.com/" target="_blank">yelp</a> & <a href="https://www.yellowpages.com/" target="_blank">yp</a>) to build a machine learning model (random forest) to classify online reviews' sentiment. The bulk of the work was preprocessing the text, as well as text vectorization in a way that makes it easy for the machine learning model to classify.</p>
-
-<br clear="all">
-
-
-
-
-<hr>
-<p style="font-size: 16px;"><i>Last updated September 16, 2024</i></p>
