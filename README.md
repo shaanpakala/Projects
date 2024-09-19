@@ -1,4 +1,5 @@
 # Projects
+<p style="font-size: 14px;"><i>click image for GitHub</i></p>
 
 <p style="font-size: 24px;"><b><u>Automating Data Science Pipelines with Tensor Completion</u></b></p>
 
