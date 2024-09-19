@@ -1,7 +1,4 @@
-<br>
-<p style="font-size: 50px;"><b>Projects</b> <i>(click image for GitHub)</i></p>
-
-<hr>
+# Projects
 
 <p style="font-size: 24px;"><b><u>Automating Data Science Pipelines with Tensor Completion</u></b></p>
 
