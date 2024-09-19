@@ -2,6 +2,8 @@
 
 <p style="font-size: 20px;"><i>Professional, Academic, & Personal Projects — click image for GitHub</i></p>
 
+<hr>
+
 <p style="font-size: 24px;"><b><u>Automating Data Science Pipelines with Tensor Completion</u></b></p>
 
 <a href="https://github.com/shaanpakala/STC_AutoML" target="_blank">
