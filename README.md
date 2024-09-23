@@ -51,7 +51,7 @@
   <img align="left" width="225" height="125" src="images/image_segmentation.png">
 </a>
 
-<p style="font-size: 20px;">Some image segmentation projects I have worked on, mainly to familiarize myself with modern computer vision techniques. Overall, I learned how to develop a <a href="https://en.wikipedia.org/wiki/U-Net" target="_blank">U-Net</a> architecture with skip connections using PyTorch. I also learned some image processing techniques using OpenCV.</p>
+<p style="font-size: 20px;">Some image segmentation projects I have worked on, mainly to familiarize myself with modern computer vision and image processing techniques. Overall, I learned how to develop a custom <a href="https://en.wikipedia.org/wiki/U-Net" target="_blank">U-Net</a> architecture with skip connections, using PyTorch. I also learned some image processing techniques using OpenCV.</p>
 
 <br clear="all"><br>
 
