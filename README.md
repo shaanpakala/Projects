@@ -1,3 +1,13 @@
+<style>
+  .container {
+    width: 650px;
+/*     height: 400px; */
+    margin: 0 auto;
+    overflow: auto;
+  }
+</style>
+
+<div class="container">
 # Projects
 
 <p style="font-size: 20px;"><i>Professional, Academic, & Personal Projects — click image for GitHub</i></p>
@@ -62,3 +72,4 @@
 </a>
 
 <p style="font-size: 20px;">Started as a final project for Data Analysis Methods (CS105 at UC Riverside), but I got carried away and extended it. I webscraped online reviews (from <a href="https://www.yelp.com/" target="_blank">yelp</a> & <a href="https://www.yellowpages.com/" target="_blank">yp</a>) to build a machine learning model (random forest) to classify online reviews' sentiment. The bulk of the work was preprocessing the text, as well as text vectorization in a way that makes it easy for the machine learning model to classify.</p>
+</div>
