@@ -1,8 +1,8 @@
 # Projects
 <style>
   .container {
-    width: 1440px;
-    height: 900px;
+    width: 700px;
+    height: 400px;
     margin: 0 auto;
     overflow: auto;
   }
