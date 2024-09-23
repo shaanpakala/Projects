@@ -1,3 +1,5 @@
+# Projects
+
 <style>
   .container {
     width: 650px;
@@ -8,8 +10,6 @@
 </style>
 
 <div class="container">
-  
-# Projects
 
 <p style="font-size: 20px;"><i>Professional, Academic, & Personal Projects — click image for GitHub</i></p>
 
