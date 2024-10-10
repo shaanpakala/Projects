@@ -14,7 +14,6 @@
 
 <hr>
 
-<!--
 <p style="font-size: 24px;"><b><u>Automating Data Science Pipelines with Tensor Completion</u></b></p>
 
 <a href="https://github.com/shaanpakala/STC_AutoML" target="_blank">
@@ -24,7 +23,7 @@
 <p style="font-size: 20px;">Submitted paper as first author to <a href="https://www3.cs.stonybrook.edu/~ieeebigdata2024/" target="_blank">IEEE Big Data 2024</a> (under review). This project was funded by the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244480&HistoricalAwards=false">NSF REU</a> program during Summer 2024. Here I worked under UC Riverside Professors, in collaboration with Ph.D. & B.S. students, to research automatic and efficient hyperparameter optimization using <a href="https://www.columbia.edu/~my2550/talks/tensortalk2.pdf">tensor completion</a> algorithms. This was also extended to inferring the cardinality of SQL queries.</p>
 
 <br clear="all"><br>
--->
+
 
 <p style="font-size: 24px;"><b><u>Solving Problems in Cardiology with Machine Learning</u></b></p>
 
