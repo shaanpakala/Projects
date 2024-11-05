@@ -20,7 +20,7 @@
   <img align="left" width="225" height="125" src="images/autoML_pic.png">
 </a>
 
-<p style="font-size: 20px;">Submitted <a href="https://arxiv.org/abs/2410.06408?context=cs.LG" target="_blank">paper</a> as first author to IEEE Big Data 2024 (under review). This project was funded by the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244480&HistoricalAwards=false">NSF REU</a> program during Summer 2024. Here I worked under UC Riverside Professors, in collaboration with Ph.D. & B.S. students, to research automatic and efficient hyperparameter optimization using <a href="https://www.columbia.edu/~my2550/talks/tensortalk2.pdf">tensor completion</a> algorithms. This was also extended to inferring the cardinality of SQL queries.</p>
+<p style="font-size: 20px;">First-author <a href="https://arxiv.org/abs/2410.06408?context=cs.LG" target="_blank">paper</a> accepted to IEEE Big Data 2024. This project was funded by the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244480&HistoricalAwards=false">NSF REU</a> program during Summer 2024. Here I worked under UC Riverside Professors, in collaboration with Ph.D. & B.S. students, to research automatic and efficient hyperparameter optimization using <a href="https://www.columbia.edu/~my2550/talks/tensortalk2.pdf">tensor completion</a> algorithms. This was also extended to inferring the cardinality of SQL queries.</p>
 
 <br clear="all"><br>
 
